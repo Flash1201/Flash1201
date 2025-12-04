@@ -37,3 +37,8 @@ $ ./establish_uplink.sh --secure
     <img src="https://img.shields.io/badge/Bugcrowd-Qiuzhi-black?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
   </a>
 </p>
+
+## GitHub 访问次数
+<div style="">
+  <img src="https://count.getloli.com/get/@:Flash1201" alt=":Flash1201" />
+</center>
