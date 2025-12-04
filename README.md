@@ -2,8 +2,8 @@
 HACK THE WORLD - TO DO IT.
 ```bash
 $ whoami
-> Chief Security Officer (CSO) @ Tech Company
-> Elite Bug Hunter / Red Teamer
+> Chief Security Officer (CSO)
+> Elite Bug Hunter && Red Teamer
 
 $ cat ./objectives.txt
 > "Bringing elite offensive security insights to enterprise defense."
