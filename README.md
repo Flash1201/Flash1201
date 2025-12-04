@@ -14,6 +14,12 @@ $ grep -r "Achievements" ./history
 > [2022] Bugcrowd MVP 🏆
 > [Lifetime] Vulbox S-Level Researcher 🎖️
 
+$ cat ./hall_of_fame.txt
+> [Finance] Deutsche Bank | Citi Private Bank | USAA
+> [Auto/Mfg] Ford | General Motors | Dyson | Logitech
+> [Tech/Retail] Indeed | Lenovo | Coca-Cola
+> [Privacy] N
+
 $ ./list_projects.sh --filter="RedTeam"
 > Venom-Special-Forces-Edition [Core Developer]
   └─ Advanced Red Team Tooling & Weaponization
