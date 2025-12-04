@@ -1,5 +1,5 @@
 ### 👨‍💻 User Profile: 秋之（qiuzhi-songansec&overspace）
-
+HACK THE WORLD - TO DO IT.
 ```bash
 $ whoami
 > Chief Security Officer (CSO) @ Tech Company
@@ -24,9 +24,6 @@ $ ./establish_uplink.sh --secure
 ```
 
 <p align="left">
-  <a href="https://x.com/changyou17" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-@changyou17-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://hackerone.com/qiuzhi-songansec" target="_blank">
     <img src="https://img.shields.io/badge/HackerOne-Qiuzhi--SongAnSec-black?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
   </a>
