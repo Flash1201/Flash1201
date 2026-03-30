@@ -2,7 +2,6 @@
 HACK THE WORLD - TO DO IT.
 ```bash
 $ whoami
-> Chief Security Officer (CSO)
 > Elite Bug Hunter && Red Teamer
 
 $ cat ./objectives.txt
